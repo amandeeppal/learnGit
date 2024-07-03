@@ -19,5 +19,10 @@
         "name": "Sample 1",
         "email": "sample.com",
         "year_of_study": 1
+    },
+    {
+        "name": "ABCD",
+        "email": "ABCD@g.com",
+        "year_of_study" : 2
     }
 ]
