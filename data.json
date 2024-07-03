@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "year_of_study": 2
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "year_of_study": 3
+    },
+    {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "year_of_study": 1
+    },
+    {
+        "name": "Sample 1",
+        "email": "sample.com",
+        "year_of_study": 1
+    }
+]
